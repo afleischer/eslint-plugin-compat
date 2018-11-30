@@ -1,4 +1,6 @@
-eslint-plugin-compat
+Under construction: Sublime and VSCode Compatable Javascript compatability linter with a few visual updates.  Tentative name: Everlint.js
+
+Forked from: eslint-plugin-compat
 =====================
 [![Build Status](https://travis-ci.org/amilajack/eslint-plugin-compat.svg?branch=master)](https://travis-ci.org/amilajack/eslint-plugin-compat)
 [![Build status](https://ci.appveyor.com/api/projects/status/at71r1stbghsgcja/branch/master?svg=true)](https://ci.appveyor.com/project/amilajack/eslint-plugin-compat/branch/master)
